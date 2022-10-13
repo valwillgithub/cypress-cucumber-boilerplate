@@ -50,3 +50,11 @@ Thumbs.db
 
 # Cucumber Report
 reports
+jsonlogs
+cypress/results/specs/
+cypress/videos/
+cypress/screenshots
+cypress/cucumber-json/
+allure-results/
+allure-report
+cucumber-json-formatter
